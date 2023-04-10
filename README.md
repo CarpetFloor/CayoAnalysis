@@ -6,7 +6,5 @@ Program that parses through screenshots of the Cayo Perico heist completion scre
     + `rewrite` is whether or not the output file should be overwritten to added on to
     + `onlyCompletes` is if the data from images that not all data could be extracted from should be used in the final output file
 1. Run main.py
-<br /> <br />
-The output file is finalOutput.csv. If the file does not exist (you will not have it when cloning/downloading this repository) it will be created.
-<br /> <br />
-Also, there is an example output file with sample data in the Examples folder.
+    +The output file is finalOutput.csv. If the file does not exist (you will not have it when cloning/downloading this repository) it will be created.
+    +Also, there is an example output file with sample data in the Examples folder.
