@@ -1,0 +1,2 @@
++ finalOutput.csv is an example output file with sample data.
++ Visualization.pdf is a visualization I made for the sample data. I originally created this project just so that I could turn images into a file format I could use in Google Sheets. And so when I decided to add this project to GitHub, I thought why not also add my visualization.
